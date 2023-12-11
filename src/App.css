@@ -1,0 +1,12 @@
+.id-card {
+  border: 1px solid black;
+}
+.greetings {
+  font-size: 3rem;
+  border: 1px solid black;
+}
+.boxColor {
+  height: 150px;
+  width: 250px;
+  text-align: center;
+}
